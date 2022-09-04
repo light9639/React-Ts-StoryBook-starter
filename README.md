@@ -2,11 +2,11 @@
 :sparkles: 참고한 사이트 출처 : <a href="https://dev.to/swyx/quick-guide-to-setup-your-react--typescript-storybook-design-system-1c51">링크</a>
 
 ## **:volcano: 업데이트**
-### **:volcano: 업데이트 (2020년 3월)**
+### **:one: 업데이트 (2020년 3월)**
 
 [이 사이트에 반영한 업데이트 링크2](https://github.com/sw-yx/react-typescript-storybook-starter/pull/4)
 
-### **:volcano: 업데이트 (2018년 7월)**
+### **:two: 업데이트 (2018년 7월)**
 
 [이 사이트에 반영한 업데이트 링크1](https://github.com/sw-yx/react-typescript-storybook-starter/pull/1)
 
