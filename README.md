@@ -1,26 +1,26 @@
-This is the end result from https://dev.to/swyx/quick-guide-to-setup-your-react--typescript-storybook-design-system-1c51
+# :zap: StoryBook 기본 템플릿
+:sparkles: 참고한 사이트 출처 : https://dev.to/swyx/quick-guide-to-setup-your-react--typescript-storybook-design-system-1c51
 
-# update (March 2020)
+## 업데이트 (2020년 3월)
 
-@joanrm20 has provided an update to rewrite to Component Story Format, I think CSF is great so [i merged in the PR here](https://github.com/sw-yx/react-typescript-storybook-starter/pull/4). Check it out!
+[i merged in the PR here](https://github.com/sw-yx/react-typescript-storybook-starter/pull/4)!
 
-# update (July 2018)
+## 업데이트 (2018년 7월)
 
-@ncochard has provided an update to rewrite the stories in typescript, i think this is great so [i merged in the PR here](https://github.com/sw-yx/react-typescript-storybook-starter/pull/1). Check it out!
+[i merged in the PR here](https://github.com/sw-yx/react-typescript-storybook-starter/pull/1)!
 
-# 사용법
-
-```bash
-npm install
-npm run storybook
-```
-
-You can also build your storybook for static file hosting so your designers can see it:
+## 사용법
 
 ```bash
-npm run build-storybook
+yarn
+
+yarn run storybook
 ```
 
-Happy to take contribution/improvement suggestions.
+```bash
+yarn run build-storybook
+```
 
-Related Storybook Typescript docs PR [here](https://github.com/storybooks/storybook/pull/3361#issuecomment-379010961)
+참고 사이트 : [here](https://github.com/storybooks/storybook/pull/3361#issuecomment-379010961)
+## 출처
+출처 :
