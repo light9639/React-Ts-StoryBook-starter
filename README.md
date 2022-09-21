@@ -17,7 +17,7 @@ yarn run storybook
 yarn run build-storybook
 ```
 
-## **:dart: 업데이트**
+## **📡 업데이트**
 ### **:zap: 업데이트 (2020년 3월)**
 - [이 사이트에 반영한 업데이트 링크2](https://github.com/sw-yx/react-typescript-storybook-starter/pull/4)
 
