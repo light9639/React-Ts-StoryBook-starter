@@ -6,16 +6,16 @@
 ## **:rocket: 사용법**
 
 - 시작하는 법
-```bash
-yarn
+  ```bash
+  yarn
 
-yarn run storybook
-```
+  yarn run storybook
+  ```
 
 - 스토리북 빌드하는 법
-```bash
-yarn run build-storybook
-```
+  ```bash
+  yarn run build-storybook
+  ```
 
 ## **📡 업데이트**
 ### **:zap: 업데이트 (2020년 3월)**
