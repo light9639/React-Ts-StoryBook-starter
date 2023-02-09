@@ -1,4 +1,4 @@
-# **:zap: StoryBook 기본 템플릿**
+# 🔖 StoryBook 기본 템플릿
 <img src="https://raw.githubusercontent.com/light9639/React-Ts-StoryBook-starter/main/light9639.github.io_React-Ts-StoryBook-starter__path%3D_docs_button--text.png" alt="StoryBook"/>
 
 **:sparkles: 미리보기를 원하신다면 : <a href="https://light9639.github.io/React-Ts-StoryBook-starter/">링크 페이지</a>를 클릭하세요. :sparkles:**
